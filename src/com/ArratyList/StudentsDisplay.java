@@ -45,7 +45,7 @@ public class StudentsDisplay {
 			System.out.println("Student name : "+st.name);
 			System.out.println("Studet roll no : "+st.rno);
 			System.out.println("Student fee is "+st.fee);
-			System.out.println(" ");
+			System.out.println(" hj");
 			
 		}
 		
